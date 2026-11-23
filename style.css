@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+@media (max-width: 600px) {
+    body {
+        margin: 10px;
+    }
+}
